@@ -11,7 +11,7 @@ If you're looking for a dynamic Software Developer who not only codes but also t
 
 ## ⚙️ Technical Skills
 
-- **Languages/Methodologies**: Java, SQL, Ruby, TypeScript, SDLC, Agile/Scrum
+- **Languages/Methodologies**: Java, SQL, TypeScript, SDLC, Agile/Scrum
 - **Frameworks/Libraries**: Spring Boot, Spring MVC, Spring Security, Spring Data JPA, React.js, Angular, OAuth 2.0, Kafka
 - **Web Technologies**: HTML5, TailwindCSS, JavaScript, jQuery, Ajax, XML, Redux, REST API
 - **Testing**: Postman, JUnit, Mockito, React Testing Library
