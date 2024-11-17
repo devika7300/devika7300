@@ -13,7 +13,7 @@ If you're looking for a dynamic Software Developer who not only codes but also t
 
 - **Languages/Methodologies**: Java, SQL, TypeScript, SDLC, Agile/Scrum
 - **Frameworks/Libraries**: Spring Boot, Spring MVC, Spring Security, Spring Data JPA, React.js, Node.js, Next.js Angular, OAuth 2.0, Kafka
-- **Web Technologies**: HTML5, TailwindCSS, JavaScript,TypeScript, jQuery, Ajax, XML, Redux, REST API
+- **Web Technologies**: HTML5, TailwindCSS, JavaScript, jQuery, Ajax, XML, Redux, REST API
 - **Testing**: Postman, JUnit, Mockito, React Testing Library
 - **Cloud**: Amazon Web Services (ECS, Lambda, S3 Bucket, DynamoDB), Azure (Azure DevOps, Azure AKS), Google Cloud Platform
 - **Database and Tools**: MySQL, PostgreSQL, MongoDB, Oracle, Elasticsearch
