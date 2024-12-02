@@ -23,6 +23,6 @@ If you're looking for a dynamic Software Developer who not only codes but also t
 
 ## 📫 How to reach me ...
 
-📧 Email: [devika.s@nextitjobs.com](mailto:devika.s@nextitjobs.com) | [LinkedIn](https://www.linkedin.com/in/devika-shendkar/) | ☎️ +1 315 288 6282
+📧 Email: [devika.s@nextitjobs.com](mailto:devika.s@nextitjobs.com) | [LinkedIn](https://www.linkedin.com/in/devika-shendkar/) | [Portfolio](https://devikashendkar.com/) | ☎️ +1 315 288 6282
   
 ---
